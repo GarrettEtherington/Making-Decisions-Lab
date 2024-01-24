@@ -66,6 +66,9 @@ if (temperature <60 && rain === true){
 } else {
   console.log()
 }
+
+
+
 ////////// PROBLEM 5 //////////
 
 /*
